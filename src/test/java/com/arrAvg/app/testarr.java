@@ -1,8 +1,5 @@
 package test.java.com.arrAvg.app;
 import static org.junit.jupiter.api.Assertions.*;
-
-
-
 import org.junit.jupiter.api.Test;
 import main.java.com.arrAvg.app.arr;
 public class testarr{
